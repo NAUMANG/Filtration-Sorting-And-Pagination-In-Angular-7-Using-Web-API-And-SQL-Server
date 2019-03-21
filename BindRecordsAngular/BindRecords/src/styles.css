@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import '~@angular/material/prebuilt-themes/indigo-pink.css';
+
+th,td{
+    padding: 10px;
+    width:300px;
+}
+.mat-sort-header-arrow {
+    color: white;
+    opacity: 0;
+}
